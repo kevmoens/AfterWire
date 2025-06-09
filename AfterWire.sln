@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36127.28 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfterWire", "AfterWire\AfterWire.csproj", "{B135A088-3142-41FB-8436-74FFC2517F52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AfterWireSamples", "AfterWireSamples\AfterWireSamples.csproj", "{68C67E20-B295-4253-AB90-7F98DCB0053A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B135A088-3142-41FB-8436-74FFC2517F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B135A088-3142-41FB-8436-74FFC2517F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B135A088-3142-41FB-8436-74FFC2517F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B135A088-3142-41FB-8436-74FFC2517F52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68C67E20-B295-4253-AB90-7F98DCB0053A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68C67E20-B295-4253-AB90-7F98DCB0053A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68C67E20-B295-4253-AB90-7F98DCB0053A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68C67E20-B295-4253-AB90-7F98DCB0053A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5C8AAE1-3D57-4D54-A5E5-FA003A32EE4F}
+	EndGlobalSection
+EndGlobal
